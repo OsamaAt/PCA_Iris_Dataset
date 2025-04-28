@@ -46,10 +46,5 @@ python pca_iris.py
 ```
 
 ---
-
-**ملاحظة مهمة:**  
-احرص أن تسمي ملف الكود مثلا `pca_iris.py` أو أي اسم واضح حتى يتطابق مع الشرح داخل README.
-
----
 ## المؤلف
 - OsamaAt (جيت هاب: [@OsamaAt](https://github.com/OsamaAt))
